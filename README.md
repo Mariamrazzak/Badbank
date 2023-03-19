@@ -5,6 +5,19 @@ This project emulates how a withdraw and deposit works on a bank. It has a login
 
 This project was bootstrapped with Create React App and is part of MIT's MERN Course.
 
+Technologies and libraries used:
+React JS
+Bootstrap
+
+
+Functionalities available:
+Create Account
+Login to Account
+Edit Account
+Transactions List
+Deposit
+Withdraw
+
 Available Scripts
 In the project directory, you can run:
 
@@ -26,14 +39,10 @@ It correctly bundles React in production mode and optimizes the build for the be
 The build is minified and the filenames include the hashes.
 Your app is ready to be deployed!
 
-See the section about deployment for more information.
 
 npm run eject
 Note: this is a one-way operation. Once you eject, you can’t go back!
 
-If you aren’t satisfied with the build tool and configuration choices, you can eject at any time. This command will remove the single build dependency from your project.
+Author: Mariam Razzak
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except eject will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use eject. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 License: MIT
